@@ -4,7 +4,7 @@
   "description": "TodoMVC example for redux",
   "main": "server.js",
   "scripts": {
-    "init": "git submodule init && git submodule update && cd nitrorecorder && npm install && git submodule init && git submodule update"
+    "init": "npm install && git submodule init && git submodule update && cd nitrorecorder && npm install && git submodule init && git submodule update && cd redux-devtools-log-monitor && npm install",
     "start": "node server.js"
   },
   "repository": {
