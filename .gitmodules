@@ -1,0 +1,4 @@
+[submodule "nitrorecorder"]
+	path = nitrorecorder
+	url = https://github.com/ronanamsterdam/nitrorecorder
+  branch = master
