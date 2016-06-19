@@ -10,7 +10,7 @@ A sample app that is using NitroRecorder (https://github.com/ronanamsterdam/nitr
 Then install the dependencies in the root folder:
 
 ```
-npm install
+npm run init
 ```
 
 Run the project:
